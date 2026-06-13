@@ -1,0 +1,6 @@
+{
+  "name": "Napoli Sotterranea",
+  "description": "Sistema Geospaziale Unicum - Esplorazione interattiva dei 60 siti archeologici e sotterranei di Napoli con visualizzazioni Deck.gl e flussi idrici storici.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

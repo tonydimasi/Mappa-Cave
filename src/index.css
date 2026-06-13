@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #DFE0DF;
+  --color-brand-text: #402E32;
+  --color-brand-primary: #654000;
+  --color-brand-accent: #B59866;
+  --color-brand-surface: #FFFFFF;
+  --color-brand-border: #B59866;
+
+  /* Legacy variable mappings to maintain component compatibility seamlessly */
+  --color-gold: #654000;
+  --color-gold-light: #B59866;
+  --color-gold-dim: #402E32;
+  --color-ink: #DFE0DF;
+  --color-parchment: #402E32;
+  --color-stone: #B59866;
+  --color-stone-light: #FFFFFF;
+  --color-dust: #654000;
+  --color-dust-light: #B59866;
+  --color-glow-amber: rgba(101, 64, 0, 0.08);
+
+  --font-serif: 'EB Garamond', 'Playfair Display', Georgia, serif;
+  --font-display: 'Cinzel', serif;
+  --font-mono: 'DM Mono', monospace;
+  --font-sans: 'Inter', ui-sans-serif, sans-serif;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #DFE0DF; /* brand-bg (#DFE0DF) */
+  color: #402E32; /* brand-text (#402E32) */
+  font-family: 'Inter', sans-serif;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Base custom scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #DFE0DF; /* brand-bg */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #B59866; /* brand-border */
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #654000; /* brand-primary */
+}
+
+/* Custom transitions and interactive feedback classes */
+.site-card-transition {
+  transition: all 0.25s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.glow-classic-border {
+  border-color: rgba(101, 64, 0, 0.2);
+  box-shadow: 0 0 15px rgba(101, 64, 0, 0.03);
+}
+
+.glow-classic-border:hover {
+  border-color: rgba(101, 64, 0, 0.5);
+  box-shadow: 0 0 25px rgba(101, 64, 0, 0.08);
+}
+
+/* Deck.gl overlay configuration */
+.deck-tooltip {
+  background: #FFFFFF !important;
+  border: 2px solid #B59866 !important;
+  color: #402E32 !important;
+  font-family: 'EB Garamond', serif !important;
+  padding: 12px 16px !important;
+  border-radius: 0px !important;
+  font-size: 14px !important;
+  box-shadow: 0 4px 20px rgba(64, 46, 50, 0.12) !important;
+  line-height: 1.4 !important;
+  max-width: 280px !important;
+  pointer-events: none !important;
+  text-align: left !important;
+  z-index: 999999 !important;
+}
+
+/* Custom styled badge helper */
+.badge-archaeology {
+  font-family: 'DM Mono', monospace;
+  font-size: 9.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 2.5px 6.5px;
+  border-radius: 0px;
+  border: 1px solid currentColor;
+}
