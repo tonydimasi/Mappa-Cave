@@ -28,7 +28,11 @@ export const SITES_DATA: Site[] = [
     id: 3,
     category: 'ipogeo',
     name: 'Neapolis Sotterrata (San Lorenzo Maggiore)',
+<<<<<<< HEAD
     coords: [14.253935, 40.849883],
+=======
+    coords: [14.256850, 40.850720],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 6,
     desc: "Situato a circa 6 metri di profondità sotto le navate della Basilica di San Lorenzo Maggiore, il sito rivela l'antico cuore civile della Neapolis romana, edificato sopra l'agorà greca. I visitatori possono percorrere l'antico cardo stradale romano, pavimentato in basoli, e ammirare il macellum (mercato coperto) con le sue tabernae (botteghe), caratterizzate da strutture murarie in opus reticulatum. La stratificazione visibile documenta millenni di storia, mostrando anche resti medievali e mosaici paleocristiani che testimoniano la continuità dell'uso di questo spazio urbano cruciale.",
     source: "La Neapolis Sotterrata - Blog"
@@ -118,7 +122,11 @@ export const SITES_DATA: Site[] = [
     id: 13,
     category: 'ipogeo',
     name: 'Mitreo di Carminiello ai Mannesi',
+<<<<<<< HEAD
     coords: [14.259877, 40.851074],
+=======
+    coords: [14.259722, 40.849444],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 7,
     desc: "Area archeologica che rivela un complesso sistema di terme romane del I sec. d.C., i cui ambienti inferiori furono convertiti in un Mitreo dedicato al dio Mitra nel II secolo d.C. Il sito conserva un importante rilievo in stucco raffigurante la 'tauroctonia' (Mitra che sacrifica il toro) e tracce di decorazioni parietali. Rappresenta una delle poche prove dirette del culto mitraico nel cuore del centro urbano antico e testimonia la sovrapposizione tra domus, terme e luoghi di culto misterico.",
     source: "Mithraeum.eu - Monument 358"
@@ -127,7 +135,11 @@ export const SITES_DATA: Site[] = [
     id: 14,
     category: 'rifugio',
     name: 'Palazzo Cellammare (Cave e Rifugi)',
+<<<<<<< HEAD
     coords: [14.242950, 40.835956],
+=======
+    coords: [14.244170, 40.835560],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 22,
     desc: "Sotto lo storico palazzo situato nel quartiere Chiaia si estende una vasta rete di cavità artificiali nate dall'estrazione del tufo litoide per l'edilizia nobiliare. Con una superficie rilevata di oltre 6.000 mq, il complesso fu adattato durante la Seconda Guerra Mondiale come rifugio antiaereo attrezzato per la popolazione locale, collegato da gallerie tecniche ad altri ambienti ipogei sotto il cinema Metropolitan. Le cavità mostrano segni di interventi di rinforzo strutturale eseguiti nel corso dei secoli.",
     source: "Relazione Geologica - Comune di Napoli"
@@ -136,7 +148,11 @@ export const SITES_DATA: Site[] = [
     id: 15,
     category: 'ipogeo',
     name: 'Crypta Neapolitana (Grotta di Pozzuoli)',
+<<<<<<< HEAD
     coords: [14.218278, 40.830553],
+=======
+    coords: [14.217500, 40.829444],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 45,
     desc: "Imponente galleria stradale romana lunga 705 metri, scavata interamente nel tufo sotto la collina di Posillipo nel 37 a.C. dall'architetto Lucius Cocceius Auctus. Collegava Mergellina con Fuorigrotta ed è avvolta dal mito di Virgilio Mago, che l'avrebbe creata in una notte grazie alla magia. In epoca vicereale fu ampliata abbassando il piano di calpestio, operazione che ne compromise parzialmente la stabilità statica. Oggi è parte del Parco Vergiliano, situata tra la presunta Tomba di Virgilio e quella di Giacomo Leopardi.",
     source: "NapoliForMe - Crypta Neapolitana"
@@ -145,7 +161,11 @@ export const SITES_DATA: Site[] = [
     id: 16,
     category: 'ipogeo',
     name: 'Fossa del Grano (Via Broggia)',
+<<<<<<< HEAD
     coords: [14.250854, 40.852038],
+=======
+    coords: [14.250880, 40.852440],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 14,
     desc: "Serie di enormi cavità scavate nel XVII secolo sotto il regno di Filippo III per lo stoccaggio pubblico dei cereali in previsione di carestie. Successivamente, queste strutture furono incorporate nel sistema acquedottistico del Carmignano e, nel XX secolo, adattate come rifugi antiaerei WWII con il livellamento dei pavimenti e murature di rinforzo. Presenta una superficie rilevata di circa 2.520 mq e un volume di 12.600 mc.",
     source: "Relazione Geologica - Comune di Napoli"
@@ -154,7 +174,11 @@ export const SITES_DATA: Site[] = [
     id: 17,
     category: 'ipogeo',
     name: "Teatro Romano di Neapolis (L'Anticaglia)",
+<<<<<<< HEAD
     coords: [14.257027, 40.851858],
+=======
+    coords: [14.256250, 40.851650],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 5,
     desc: "I resti monumentali del teatro di epoca imperiale dove si esibì l'imperatore Nerone cantando le sue composizioni greche. Le imponenti strutture della cavea e del proscenio sono oggi parzialmente inglobate nelle fondamenta degli edifici del centro antico e visibili attraverso i pavimenti di abitazioni private nel cuore del decumano superiore. Rappresenta un eccezionale esempio di 'archeologia diffusa', dove l'antico funge da base statica per la città moderna.",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -163,7 +187,11 @@ export const SITES_DATA: Site[] = [
     id: 18,
     category: 'ipogeo',
     name: 'Ipogeo dei Melograni',
+<<<<<<< HEAD
     coords: [14.251570, 40.860957],
+=======
+    coords: [14.252320, 40.857640],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 11,
     desc: "Sito archeologico appartenente alla necropoli ellenistica extra-moenia di Neapolis (IV-III secolo a.C.), scoperto nel Vallone della Sanità. Caratterizzato da un'architettura funeraria a camera scavata nel tufo, deve il suo nome alle raffinate decorazioni dipinte che ritraggono melograni, simbolo greco della fecondità spirituale e del passaggio all'oltretomba. È stato recentemente oggetto di studi geofisici muonucleari per mappare eventuali camere non ancora scavate.",
     source: "Nature Portfolio - Discovery by Muography"
@@ -172,7 +200,11 @@ export const SITES_DATA: Site[] = [
     id: 19,
     category: 'acqua',
     name: 'Acquedotto del Serino (Sottosuolo)',
+<<<<<<< HEAD
     coords: [14.265766, 40.872165],
+=======
+    coords: [14.263500, 40.869000],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 18,
     desc: "Conosciuto come Aqua Augusta, fu costruito in epoca augustea (27 a.C. - 14 d.C.) per portare l'acqua dalle sorgenti del Serino a Napoli e Miseno, con un percorso complessivo di oltre 80 km. I suoi condotti sotterranei, spesso rivestiti in opus reticulatum o scavati nella roccia nuda, attraversano l'intero sottosuolo cittadino alimentando le cisterne dei palazzi fino all'entrata in funzione dell'acquedotto moderno nel 1885.",
     source: "Lo Speakers Corner - Gli Antichi Acquedotti"
@@ -181,7 +213,11 @@ export const SITES_DATA: Site[] = [
     id: 20,
     category: 'rifugio',
     name: 'Ipogeo di Piazza del Plebiscito',
+<<<<<<< HEAD
     coords: [14.248565, 40.835856],
+=======
+    coords: [14.248890, 40.835850],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 30,
     desc: "Complesso sistema di ambienti ipogei, cisterne idriche e gallerie situati sotto il colonnato monumentale e la Basilica di San Francesco di Paola. Le strutture si intersecano con il tracciato della Galleria Borbonica e furono parzialmente riutilizzate come rifugi antiaerei per i dipendenti del Palazzo del Governo (Prefettura) durante la Seconda Guerra Mondiale. Il sito è stato oggetto di monitoraggio durante i lavori per la mai completata Linea Tranviaria Rapida (LTR).",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -190,7 +226,11 @@ export const SITES_DATA: Site[] = [
     id: 21,
     category: 'acqua',
     name: 'Sito 21 (Via Avvocata 25)',
+<<<<<<< HEAD
     coords: [14.249386, 40.850250],
+=======
+    coords: [14.244012, 40.852521],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 25,
     desc: "Tratto di antico acquedotto sotterraneo esteso per circa 2.045 mq sotto il rione Avvocata, censito tecnicamente per fini di monitoraggio sismico dell'edificabilità, prevenzione dello stress idrico dei terreni sovrastanti e catalogazione del demanio ipogeo.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -199,7 +239,11 @@ export const SITES_DATA: Site[] = [
     id: 22,
     category: 'ipogeo',
     name: 'Sito 22 (Via L. Bianchi)',
+<<<<<<< HEAD
     coords: [14.213320, 40.868081],
+=======
+    coords: [14.218034, 40.871054],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 30,
     desc: "Complesso di cave monumentali a Chiaiano rilevato per monitorare continuamente la stabilità del suolo e gli impatti dell'attività estrattiva storica di tufo sul sovrastante tessuto urbano.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -208,7 +252,11 @@ export const SITES_DATA: Site[] = [
     id: 23,
     category: 'ipogeo',
     name: 'Cavità Bosco Capodimonte 17/22',
+<<<<<<< HEAD
     coords: [14.250257, 40.867283],
+=======
+    coords: [14.255087, 40.867011],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 18,
     desc: "Vasta cava adiacente al Real Bosco. Monitorata geotecnicamente per la stabilità del piano stradale, esempio di attività estrattiva privata nel database del censimento continuo per la sicurezza geotecnica.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -217,7 +265,11 @@ export const SITES_DATA: Site[] = [
     id: 24,
     category: 'ipogeo',
     name: 'Cavità Via Filippo Maria Briganti',
+<<<<<<< HEAD
     coords: [14.270008, 40.868004],
+=======
+    coords: [14.267015, 40.868032],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Imponente complesso caveale con superficie di 2.500 mq. Uno dei vuoti artificiali più vasti della zona orientale, scavato per il prelievo di materiali edili.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -226,7 +278,11 @@ export const SITES_DATA: Site[] = [
     id: 25,
     category: 'ipogeo',
     name: 'Cavità Vico della Calce 1',
+<<<<<<< HEAD
     coords: [14.247022, 40.857613],
+=======
+    coords: [14.242043, 40.856098],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 25,
     desc: "Situata nel Rione Stella, con volume di 25.360 mc. Caratterizzata da una fitta maglia di pilastri residui per sostenere l'abitato circostante e per prevenire fenomeni di sprofondamento.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -235,7 +291,11 @@ export const SITES_DATA: Site[] = [
     id: 26,
     category: 'ipogeo',
     name: 'Cavità Vico Calce a Materdei 30',
+<<<<<<< HEAD
     coords: [14.247022, 40.857613],
+=======
+    coords: [14.241076, 40.853045],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 14,
     desc: "Documenta la stratificazione delle attività estrattive private effettuate sotto i palazzi del XVII secolo a Materdei. Volume: 5.215 mc.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -244,7 +304,11 @@ export const SITES_DATA: Site[] = [
     id: 27,
     category: 'ipogeo',
     name: 'Cavità Salita Vecchia di Capodimonte 60',
+<<<<<<< HEAD
     coords: [14.252018, 40.862874],
+=======
+    coords: [14.250032, 40.862087],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 12,
     desc: "Cava storica situata lungo l'antico asse di collegamento verso la collina. Caratterizzata da pareti alte circa 10 metri e un soffitto piano.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -253,7 +317,11 @@ export const SITES_DATA: Site[] = [
     id: 28,
     category: 'acqua',
     name: 'Cisterna Piazza Cavour 74',
+<<<<<<< HEAD
     coords: [14.251641, 40.853297],
+=======
+    coords: [14.252098, 40.854521],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 8,
     desc: "Ambiente idrico di accumulo situato sotto piazza Cavour. Faceva parte del sistema di distribuzione dell'acquedotto della Bolla.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -271,7 +339,11 @@ export const SITES_DATA: Site[] = [
     id: 30,
     category: 'ipogeo',
     name: 'Cavità Via Chiaia 87',
+<<<<<<< HEAD
     coords: [14.245534, 40.836105],
+=======
+    coords: [14.245510, 40.835930],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Vasta cavità tecnica situata sotto l'asse stradale di via Chiaia. Testimonia l'attività estrattiva tra XVII e XVIII secolo per i palazzi della nobiltà.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -280,7 +352,11 @@ export const SITES_DATA: Site[] = [
     id: 31,
     category: 'ipogeo',
     name: 'Cavità Via Chiaia 123',
+<<<<<<< HEAD
     coords: [14.245534, 40.836105],
+=======
+    coords: [14.244430, 40.835540],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 10,
     desc: "Ulteriore ambiente ipogeo nel quartiere San Ferdinando. Cavità 'di prestito' scavata per l'edificazione del quartiere tra il XVII e il XVIII secolo.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -289,7 +365,11 @@ export const SITES_DATA: Site[] = [
     id: 32,
     category: 'ipogeo',
     name: 'Cavità Via Chiaia 179',
+<<<<<<< HEAD
     coords: [14.245534, 40.836105],
+=======
+    coords: [14.243420, 40.835120],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 10,
     desc: "Ambiente ipogeo nel cuore di Chiaia. Il sito è censito per fini di controllo della stabilità e monitoraggio delle infiltrazioni idriche profonde.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -298,7 +378,11 @@ export const SITES_DATA: Site[] = [
     id: 33,
     category: 'ipogeo',
     name: 'Cavità Salita dei Cinesi 68',
+<<<<<<< HEAD
     coords: [14.251567, 40.861245],
+=======
+    coords: [14.253076, 40.861543],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 8,
     desc: "Ex cava di tufo situata nel quartiere Stella, attualmente riutilizzata come autorimessa privata (garage).",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -307,7 +391,11 @@ export const SITES_DATA: Site[] = [
     id: 34,
     category: 'ipogeo',
     name: 'Sito 34 (Viale Colli Aminei 36)',
+<<<<<<< HEAD
     coords: [14.239335, 40.870998],
+=======
+    coords: [14.242043, 40.872012],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 35,
     desc: "Colossale sistema di estrazione di oltre 200.000 mc (esattamente 206.000 mc rilevati dal Comune) scavato sulla collina di Capodimonte, essenziale per saggiare la stabilità geomeccanica delle colline.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -316,7 +404,11 @@ export const SITES_DATA: Site[] = [
     id: 35,
     category: 'acqua',
     name: 'Acquedotto Vico I Concezione',
+<<<<<<< HEAD
     coords: [14.246873, 40.843248],
+=======
+    coords: [14.245543, 40.844512],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 10,
     desc: "Tratto di condotta idrica storica situata nei Quartieri Spagnoli. Documenta la densità della rete di distribuzione ipogea seicentesca.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -325,7 +417,11 @@ export const SITES_DATA: Site[] = [
     id: 36,
     category: 'ipogeo',
     name: 'Cavità Via Confalone 7',
+<<<<<<< HEAD
     coords: [14.237086, 40.854068],
+=======
+    coords: [14.238076, 40.851043],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Cava di modesta estensione situata nel quartiere Arenella. Testimonianza delle attività estrattive locali effettuate sui fianchi del Vomero.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -334,7 +430,11 @@ export const SITES_DATA: Site[] = [
     id: 37,
     category: 'ipogeo',
     name: 'Cavità Via Francesco Saverio Correra 29',
+<<<<<<< HEAD
     coords: [14.247059, 40.851316],
+=======
+    coords: [14.247512, 40.850543],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 18,
     desc: "Ampia cava nel rione Avvocata con superficie di 3.806 mq. Localizzata in area ad alta densità abitativa per studi sismologici.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -343,7 +443,11 @@ export const SITES_DATA: Site[] = [
     id: 38,
     category: 'acqua',
     name: 'Cisterna Via Michele D\'Amelio 82',
+<<<<<<< HEAD
     coords: [14.227844, 40.852285],
+=======
+    coords: [14.223043, 40.858012],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 6,
     desc: "Piccola camera idrica di accumulo situata nel quartiere Arenella. Faceva parte delle infrastrutture per l'approvvigionamento dei casali.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -352,7 +456,11 @@ export const SITES_DATA: Site[] = [
     id: 39,
     category: 'rifugio',
     name: 'Sito 39 (Via Trinità degli Spagnoli 31)',
+<<<<<<< HEAD
     coords: [14.247656, 40.840198],
+=======
+    coords: [14.247100, 40.838500],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 26,
     desc: "Uno dei rifugi antiaerei più grandi e conosciuti della città. Con una superficie areale di circa 32.000 mq, si sviluppa sotto i Quartieri Spagnoli. È accessibile tramite una scala monumentale di 135 gradini che scende fino a 26 metri sotto il livello stradale. All'interno conserva graffiti storici, resti del sistema di illuminazione bellico e sedili in muratura per la popolazione rifugiata.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -361,7 +469,11 @@ export const SITES_DATA: Site[] = [
     id: 40,
     category: 'ipogeo',
     name: 'Cavità Via Carlo De Marco',
+<<<<<<< HEAD
     coords: [14.264591, 40.867724],
+=======
+    coords: [14.264012, 40.866543],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 6,
     desc: "Cava censita nel quartiere San Carlo all'Arena. Documenta l'attività estrattiva eseguita lungo le pendici esterne di Capodimonte.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -370,7 +482,11 @@ export const SITES_DATA: Site[] = [
     id: 41,
     category: 'acqua',
     name: 'Calata San Mattia 23',
+<<<<<<< HEAD
     coords: [14.244824, 40.839417],
+=======
+    coords: [14.246410, 40.838350],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 40,
     desc: "Scoperto nel luglio 1982 dal Gruppo Speleologico CAI Napoli, questo sito custodisce il più vasto tratto intatto dell'acquedotto del Carmignano (1627-1629) mai trovato in città. Il sistema si sviluppa per oltre 2.000 metri di cunicoli scavati nel tufo e comprende ben 30 maestose cisterne comunicanti, alcune delle quali superano i 40 metri di altezza. Contrariamente ad altri settori, non ha subito modifiche belliche, conservando marciapiedi di servizio e archi di sostegno originali del XVII secolo.",
     source: "Lo Speakers Corner - Gli Antichi Acquedotti"
@@ -379,7 +495,11 @@ export const SITES_DATA: Site[] = [
     id: 42,
     category: 'acqua',
     name: 'Palazzo Serra di Cassano',
+<<<<<<< HEAD
     coords: [14.245786, 40.833656],
+=======
+    coords: [14.245800, 40.835300],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 30,
     desc: "Sito storico che integra condotte dell'acquedotto rinascimentale e un rifugio antiaereo WWII sulla collina di Pizzofalcone. Il sito è fisicamente connesso al sistema della Galleria Borbonica tramite una scala monumentale che scende dal cortile del palazzo nobiliare. Durante la guerra, fu un centro di coordinamento civile e sede di attività antifasciste clandestine.",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -388,7 +508,11 @@ export const SITES_DATA: Site[] = [
     id: 43,
     category: 'ipogeo',
     name: 'Grotta di Seiano',
+<<<<<<< HEAD
     coords: [14.176524, 40.800182],
+=======
+    coords: [14.184310, 40.798150],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 45,
     desc: "Tunnel stradale romano lungo 770 metri scavato nel I secolo a.C. sotto la collina di Posillipo. Accesso al Parco del Pausilypon. Presenta archi di rinforzo in opus reticulatum e massicce volte borboniche del XIX secolo. Durante la Seconda Guerra Mondiale fu utilizzato come rifugio sicuro per migliaia di abitanti della zona di Bagnoli.",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -397,7 +521,11 @@ export const SITES_DATA: Site[] = [
     id: 44,
     category: 'ipogeo',
     name: 'Grotta di Cocceio',
+<<<<<<< HEAD
     coords: [14.048830, 40.849137],
+=======
+    coords: [14.053600, 40.839500],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 30,
     desc: "Galleria militare romana che collegava il lago d'Averno con Cuma. Costruita da Lucio Cocceio Aucto nel 37 a.C., presenta aerofori verticali colossali per la luce ed è dotata di marciapiedi rialzati per i carri adibiti alla difesa militare della Classis Misenensis.",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -406,7 +534,11 @@ export const SITES_DATA: Site[] = [
     id: 45,
     category: 'ipogeo',
     name: 'Grotte Platomonie (Monte Echia)',
+<<<<<<< HEAD
     coords: [14.245923, 40.830488],
+=======
+    coords: [14.247800, 40.832200],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 10,
     desc: "Antichissime cavità situate ai piedi del Monte Echia, ritenute sede di un mitreo pagano o di antichi cenobi monastici basiliani. Queste cave fornirono i blocchi di tufo litoide per l'edificazione del Borgo di Chiaia e del Palazzo Reale nel XVI secolo. Rappresentano i primi siti estrattivi documentati della Partenope greca.",
     source: "Lapegna - Escursioni Sottosuolo (FSC)"
@@ -424,7 +556,11 @@ export const SITES_DATA: Site[] = [
     id: 47,
     category: 'acqua',
     name: 'Cavità Via Duomo 142',
+<<<<<<< HEAD
     coords: [14.261095, 40.848989],
+=======
+    coords: [14.258800, 40.850900],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Cisterna monumentale dell'acquedotto greco-romano (Bolla). Presenta tracce storiche di riadattamento per il Convento dei Gerolomini risalente al XVI-XVII secolo.",
     source: "Wikipedia - Sottosuolo di Napoli"
@@ -433,7 +569,11 @@ export const SITES_DATA: Site[] = [
     id: 48,
     category: 'acqua',
     name: 'Cavità Vico Carafa 14',
+<<<<<<< HEAD
     coords: [14.248567, 40.845798],
+=======
+    coords: [14.251944, 40.856944],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 18,
     desc: "Vasto sistema ipogeo situato sotto lo storico Palazzo Albertini di Ciolla a Vico Carafa 14 nel Rione Stella, connesso all'antico sistema di distribuzione idrica e censito per fini di controllo geotecnico.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -451,7 +591,11 @@ export const SITES_DATA: Site[] = [
     id: 50,
     category: 'acqua',
     name: 'Serbatoio Amedeo di Savoia',
+<<<<<<< HEAD
     coords: [14.248527, 40.860540],
+=======
+    coords: [14.250500, 40.865200],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 35,
     desc: "Noto come 'Serbatoio AMAN'. Imponente bacino di accumulo idrico profondo con una volumetria colossale di 371.925 mc, scavato interamente in era sabauda per supportare il fabbisogno idrico della città.",
     source: "Relazione Geologica - Comune di Napoli"
@@ -460,7 +604,11 @@ export const SITES_DATA: Site[] = [
     id: 51,
     category: 'rifugio',
     name: 'Trinità degli Spagnoli 31',
+<<<<<<< HEAD
     coords: [14.247148, 40.839888],
+=======
+    coords: [14.247500, 40.838900],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 26,
     desc: "Rifugio antiaereo monumentale (50.000 mc) ricavato da un antico acquedotto, accessibile tramite una scala di 135 gradini sotto i Quartieri Spagnoli. Conserva scritte storiche originali tracciate dai rifugiati.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -478,7 +626,11 @@ export const SITES_DATA: Site[] = [
     id: 53,
     category: 'acqua',
     name: 'Cavità Via Chiaia 216',
+<<<<<<< HEAD
     coords: [14.246505, 40.836595],
+=======
+    coords: [14.242310, 40.834720],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 28,
     desc: "Vasta cavità tecnica collegata al sistema idrico dei Quartieri Spagnoli. Uno dei vuoti artificiali più ampi documentati sotto Chiaia per fini di distribuzione idrica seicentesca.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -487,7 +639,11 @@ export const SITES_DATA: Site[] = [
     id: 54,
     category: 'ipogeo',
     name: 'Via Arenaccia (Gussone)',
+<<<<<<< HEAD
     coords: [14.270444, 40.861029],
+=======
+    coords: [14.266500, 40.858500],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 28,
     desc: "Sito stratigrafico identificato tramite sondaggi geologici profondi che hanno intercettato il banco di tufo a 28 metri sotto i sedimenti stradali dell'Arenaccia.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -496,7 +652,11 @@ export const SITES_DATA: Site[] = [
     id: 55,
     category: 'ipogeo',
     name: 'Piazza S. Maria della Fede',
+<<<<<<< HEAD
     coords: [14.268552, 40.858237],
+=======
+    coords: [14.268200, 40.856800],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 38,
     desc: "Sito di eccezionale interesse stratigrafico dove il tufo giallo viene intercettato a 38 metri dal piano campagna. Sondaggi profondi hanno rivelato che al di sotto del banco tufaceo (74 m) sono presenti depositi marnosi e argille marine con conchiglie, documentando antiche invasioni marine del territorio partenopeo.",
     source: "Relazione Geologica Comune 1967 (Il Sottosuolo)"
@@ -505,7 +665,11 @@ export const SITES_DATA: Site[] = [
     id: 56,
     category: 'acqua',
     name: 'Cavità Via Giovanni Nicotera (Cisterna)',
+<<<<<<< HEAD
     coords: [14.244680, 40.835786],
+=======
+    coords: [14.245500, 40.836200],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 20,
     desc: "Ambiente ipogeo appartenente all'acquedotto del Carmignano. Caratterizzato da cisterne a quote differenziate per l'attingimento sicuro presso i contrafforti di Pizzofalcone.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -514,7 +678,11 @@ export const SITES_DATA: Site[] = [
     id: 57,
     category: 'ipogeo',
     name: 'Complesso dello Scudillo',
+<<<<<<< HEAD
     coords: [14.238256, 40.866076],
+=======
+    coords: [14.242100, 40.865500],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 45,
     desc: "Il sistema caveale più maestoso di Napoli (838.000 mc). Durante la guerra fu enorme deposito di munizioni alleato, teatro di una tragica esplosione nel 1944.",
     source: "Relazione Geologica Integrale - Comune di Napoli"
@@ -523,7 +691,11 @@ export const SITES_DATA: Site[] = [
     id: 58,
     category: 'rifugio',
     name: 'Giardino di Babuk',
+<<<<<<< HEAD
     coords: [14.259075, 40.858598],
+=======
+    coords: [14.258660, 40.856090],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Singola cavità antiaerea situata sotto un giardino storico nobiliare in zona via Foria. Originata dall'estrazione del tufo nel XVIII secolo, è oggi riqualificata come sede di manifestazioni culturali, concerti e spettacoli teatrali ambientati nel suggestivo scenario ipogeo.",
     source: "Campania e Dintorni - Cavità Visitabili"
@@ -532,7 +704,11 @@ export const SITES_DATA: Site[] = [
     id: 59,
     category: 'acqua',
     name: 'Piscina Mirabilis',
+<<<<<<< HEAD
     coords: [14.080284, 40.795203],
+=======
+    coords: [14.081199, 40.794719],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 15,
     desc: "Definita la 'Piscina Mirabilis', ovvero la 'Cattedrale dell'Acqua', è il terminale monumentale dell'acquedotto Augusteo del Serino scavato nel tufo a Bacoli. Ha una capacità di 12.000 mc ed era destinata all'approvvigionamento della flotta imperiale Classis Misenensis. La sua architettura a cinque navate sorrette da 48 pilastri rappresenta l'apice dell'ingegneria idraulica romana.",
     source: "Naples Life, Death & Miracle - Aqueduct"
@@ -541,7 +717,11 @@ export const SITES_DATA: Site[] = [
     id: 60,
     category: 'ipogeo',
     name: 'Tombe a Forno di Materdei',
+<<<<<<< HEAD
     coords: [14.247059, 40.851316],
+=======
+    coords: [14.242500, 40.853500],
+>>>>>>> e7861275b2bc9769cf28c12a5a3c98ebb59cd3a8
     depth: 6,
     desc: "I più antichi esempi di cavità artificiali di Napoli (4.500 anni fa), attribuiti alla cultura eneolitica del Gaudo. Sepolture a camera scavate nel tufo.",
     source: "Sito Ufficiale Catacombe di Napoli"
